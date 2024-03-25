@@ -1,0 +1,29 @@
+body {
+    background-color: #FFFFFF;
+}
+
+table {
+    width: 90%;
+    border: none;
+    margin: 0 auto;
+}
+
+td {
+    text-align: center;
+}
+
+.search-area {
+    background-color: #EEEEEE;
+}
+
+.special-searches {
+    background-color: #7EE5DA;
+}
+
+.info-links {
+    background-color: #70CCC2;
+}
+
+.updates {
+    background-color: #62B3AA;
+}
